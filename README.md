@@ -1,5 +1,10 @@
-# c-groups
-My implementation of functions getgrnam and getgrgid
+# c-groups homework project
+
+Operating systems
+Faculty of Mathematics
+University in Belgrade
+
+Implementation of functions getgrnam and getgrgid.
 
 Compile:
 gcc group.c -std=c99
